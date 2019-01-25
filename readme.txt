@@ -1,0 +1,1 @@
+Kindly add the three.js before opening the html file
